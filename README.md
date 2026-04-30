@@ -135,9 +135,11 @@ Fluxo da aplicação:
 
 ---
 
-## 📘 User Guide
+## 📘 Guia do Usuário
 
-UserGuide.md contém todas as instruções de uso e instalação.
+👉 Acesse o guia completo de uso e instalação da extensão:
+
+🔗 [Abrir UserGuide.md](./UserGuide.md)
 
 ---
 
